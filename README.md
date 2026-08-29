@@ -6,9 +6,9 @@ role-based access control.
 
 ## Roles
 
-- **Admin / Receptionist** — manages patients, doctors, and appointments
-- **Doctor** — views assigned patients and checkup records
-- **Patient** — logs in to view personal medical records
+- **Admin / Receptionist** —> manages patients, doctors, and appointments
+- **Doctor** —> views assigned patients and checkup records
+- **Patient** —> logs in to view personal medical records
 
 ## Features
 
